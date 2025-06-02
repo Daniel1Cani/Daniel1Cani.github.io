@@ -2,8 +2,6 @@
 title: Daniel Cani – Cybersecurity Student
 ---
 
-# Daniel Cani – Cybersecurity Student
-
 Welcome to my professional portfolio site. I'm currently pursuing a degree in Cybersecurity and specialize in hands-on projects involving threat detection, SIEM systems, and cloud security.
 
 ---
